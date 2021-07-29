@@ -44,6 +44,8 @@ Elon Musk, started tweeting and paying attention to Doge, early January 2021. Wi
 ## Data
 
 This report will be using the historic data of Bitcoin, Ethereum, and Dogecoin from Yahoo Finance (https://finance.yahoo.com/).
+![bitcoin](https://user-images.githubusercontent.com/70491460/127417939-beda0a49-30b4-494f-9680-442fe67ca68f.PNG)
+
 This report will also being using Twitter data on Dogecoin.
 
 ## Models Implemented
