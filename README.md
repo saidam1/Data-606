@@ -57,12 +57,12 @@ This report will also being using Twitter data on Dogecoin.
 
 
 ## Models Implemented
-
-## Results
 ![decision tree](https://user-images.githubusercontent.com/70491460/127418134-701ead9e-c2d9-40bc-a22c-03ed742c725c.png)
 ![linear regression](https://user-images.githubusercontent.com/70491460/127418151-0ecd4ebf-c49a-45bd-a8c6-97513c68f04e.png)
 ![SVR MODEL](https://user-images.githubusercontent.com/70491460/127418154-0f289344-0185-4bfb-9380-73521c6235c8.png)
 ![random forest regression](https://user-images.githubusercontent.com/70491460/127418153-4d89ef3e-2e41-41ff-89cc-ef369341711c.png)
+
+## Sentiment Analysis of Twitter Data on Dogecoin, Bitcoin, and Etherum
 
 ## Conclusion
 
