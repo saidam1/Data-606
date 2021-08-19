@@ -72,6 +72,11 @@ This report will also being using Twitter data on Dogecoin.
 ![sentiment bar graph bitcoin](https://user-images.githubusercontent.com/70491460/130152092-3dc5f413-39b1-463a-b7f5-ecd3eb95036f.png)
 
 ### Ethereum Sentiment Analysis
+
+![eth scatter plot sentiment](https://user-images.githubusercontent.com/70491460/130152428-ba98ab5d-756f-498b-bf2b-3d2e3e135aee.png)
+
+![eth bar plot sentiemtn](https://user-images.githubusercontent.com/70491460/130152433-525a9cde-1a1e-4077-b1c2-f42dae4ea264.png)
+
 ## Conclusion
 
 
