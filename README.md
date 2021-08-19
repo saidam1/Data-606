@@ -63,10 +63,15 @@ This report will also being using Twitter data on Dogecoin.
 ![random forest regression](https://user-images.githubusercontent.com/70491460/127418153-4d89ef3e-2e41-41ff-89cc-ef369341711c.png)
 
 ## Sentiment Analysis of Twitter Data on Dogecoin, Bitcoin, and Etherum
+### Dogecoin Sentiment Analysis
 
 ### Bitcoin Sentiment Analysis
 
+![sentiment scatter plot bitcoin](https://user-images.githubusercontent.com/70491460/130152193-c1f85ff9-6e8b-41f9-93d6-43d78eca642c.png)
+
 ![sentiment bar graph bitcoin](https://user-images.githubusercontent.com/70491460/130152092-3dc5f413-39b1-463a-b7f5-ecd3eb95036f.png)
+
+### Ethereum Sentiment Analysis
 ## Conclusion
 
 
