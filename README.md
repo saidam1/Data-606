@@ -64,6 +64,9 @@ This report will also being using Twitter data on Dogecoin.
 
 ## Sentiment Analysis of Twitter Data on Dogecoin, Bitcoin, and Etherum
 
+### Bitcoin Sentiment Analysis
+
+![sentiment bar graph bitcoin](https://user-images.githubusercontent.com/70491460/130152092-3dc5f413-39b1-463a-b7f5-ecd3eb95036f.png)
 ## Conclusion
 
 
