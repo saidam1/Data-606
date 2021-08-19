@@ -79,8 +79,11 @@ This report will also being using Twitter data on Dogecoin.
 
 ## Conclusion
 
+#### Best Model for predicting Dogecoin prices
 
-## Github Navigation
+![decision tree](https://user-images.githubusercontent.com/70491460/127418134-701ead9e-c2d9-40bc-a22c-03ed742c725c.png)
+
+
 
 
 
